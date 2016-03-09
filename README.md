@@ -1,4 +1,7 @@
+i'm forking this to server as a basis for a real time massively parallel genetic algorithm visualizer, a virtual reality workspace for altering simulation parameters of a RNA world origins of life simulation
+
 # unity3d-thrift-twisted
+
 
 This is a demo codebase for linking up a [Unity3D](http://unity3d.com/) client with a [python twisted](https://twistedmatrix.com/trac/) server using the [Apache Thrift](https://thrift.apache.org/) RPC toolset.
 
